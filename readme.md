@@ -27,4 +27,4 @@
 
 <hr />
 
-### <a href="http://linkedin.com/in/danielfelipeklotz">Contact me on LinkedIn</a>
+### <a href="https://www.linkedin.com/in/estefani-joana-borchardt-klotz-864877153/">Contact me on LinkedIn</a>
